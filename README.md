@@ -19,14 +19,50 @@ Ensuite, on peux placer les médias dans la partie Montage
 
 !["image des reglages"](/images/Premiere_screen10.png)
 
+### Options d'effet
+
+On peux créer des images clefs comme dans After Effect avec la fenêtre Options d'effet, en cliquant sur le chrono à coté d'un paramètre.
+
+!["image des reglages"](/images/Premiere_screen15.png)
 
 ### Ajouter une légende
 
+On prend l'outil Texte
 
+!["image des reglages"](/images/Premiere_screen11.png)
+
+Et sur la fenêtre preview, on créé notre zone de texte :
+
+!["image des reglages"](/images/Premiere_screen12.png)
+
+On peux modifier les paramètres du texte dans la fenêtre Propriétés :
+
+!["image des reglages"](/images/Premiere_screen13.png)
+
+Et on choisit le timing dans le montage :
+
+!["image des reglages"](/images/Premiere_screen14.png)
+
+### Caler une piste son
+
+Si on a une piste son enregistrée au micro, que l'on veux caler sur la vidéo, on place la vidéo et la piste son dans le montage, on les sélectionne, puis on fait Elément > Synchroniser...
 
 
 ### Chroma Key
 
+On peux se server du chroma key ( = enlever un fond vert, bleur, blanc...) pour rajouter un effet sur une vidéo, ou pour placer une animation qui a été exportée (d'After Effect, Procreate, etc) avec un fond coloré, afin d'obtenir un fond transparent sur Premiere.
+
+D'abord on place le média dans le montage, puis on fait Fenêtre > Effets pour ouvrir les effets.
+
+!["image des reglages"](/images/Premiere_screen16.png)
+
+On cherche l'effet UltraKey, et en double-cliquant dessus on l'applique au média sélectionné : il apparaît dans la fenêtre "Options d'effet"
+
+!["image des reglages"](/images/Premiere_screen17.png)
+
+On peux alors cliquer sur la pipette dans le paramètre "Couleur de découpe" pour sélectionner la couleur qui sera enlevée du média.
+
+!["image des reglages"](/images/exempleUltrakey.png)
 
 ### Sous-titres
 
@@ -51,6 +87,39 @@ Nos sous-titres se sont placés directement sur la vidéo + dans la timeline :
 !["screen Premiere"](/images/Premiere_screen8.png)
 
 ### Exporter
+
+Une fois que notre montage est fini, on peux passer à l'onglet exporter (tout en haut à droite) :
+
+!["screen Premiere"](/images/Premiere_screen18.png)
+
+On peux alors donner un nom INTELLIGENT ( =/= "exportfinal18"), sans accent ni espace, et vérifier que l'emplacement est bien notre dossier de travail.
+
+!["screen Premiere"](/images/Premiere_screen19.png)
+
+On choisit le format H.264 ou H.265, puis on va voir dans le paramètre Vidéo : par défaut les réglages de base sont les mêmes que les paramètres de la séquence. 
+
+Si besoin, on peux notamment réduire la taille de l'image, afin d'adapter à l'usage : pour les réseaux sociaux un export en 1080p suffit vu que la vidéo sera compressée par le réseau social en tous les cas.
+
+!["screen Premiere"](/images/Premiere_screen21.png)
+
+En cliquant sur le bouton "... Plus" on a accès aux réglages du débit vidéo.
+
+!["screen Premiere"](/images/Premiere_screen22.png)
+
+
+<details><summary>Le débit vidéo ??</summary>
+Le débit vidéo fait référence à la quantité de données traitées par seconde dans un fichier vidéo, ce qui affecte directement sa qualité, la taille du fichier et les performances de lecture.
+
+Plus on cherche à avoir une vidéo de qualité, plus on augmente le débit, ce qui augmentera aussi le poid du fichier.
+
+!["screen Premiere"](/images/tableau_debit.png)
+*source : [Wondershare](https://filmora.wondershare.fr/basic-concept/what-does-video-bitrate-mean.html)*
+
+</details>
+
+En bas à droite de l'interface d'export, on a notamment le poid de la vidéo.
+
+!["screen Premiere"](/images/Premiere_screen20.png)
 
 
 ## Capcut
