@@ -121,10 +121,15 @@ En bas à droite de l'interface d'export, on a notamment le poid de la vidéo.
 
 !["screen Premiere"](/images/Premiere_screen20.png)
 
+## Voix off
+
+Réserver le studio son : écrire son texte d'abord et s'entraîner plusieurs fois
 
 ## Capcut
 
 Sur téléphone ou sur Ipad.
+
+Usage moins pro, mais pratique sur le vif.
 
 ## Banques de vidéos libres de droit
 
@@ -134,9 +139,18 @@ Sur téléphone ou sur Ipad.
 
 [Internet Archive](https://archive.org/details/movies) (pas mal de vidéos un peu anciennes)
 
+Ça peut aussi être venir générer des vidéos à l'ateliernum, sur nos modèles d'IA locaux ( = moins de dommages environnementaux + mieux pour la confidentialité des données).
+
 ## Guidelines pour les réseaux sociaux
 
 !["image des guidelines"](/images/guidelines_insta.png)
 
 
-## Pour aller plus loin
+## Tips
+
+- Essayer d'avoir des noms de médias clairs, et surtout les mettre tous dans le même dossier.
+
+- Ne pas hésiter à regarder la vidéo plusieurs fois + faire regarder par qqun qui a un regard neuf, qui pourra plus facilement voir si certains plans sont trop longs ou trop courts.
+
+- Relire et faire relire tous les textes plusieurs fois 😡 attention les fautes d'orthographes
+
