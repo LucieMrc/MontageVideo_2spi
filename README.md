@@ -1,10 +1,10 @@
-# MontageVideo_2spi
+# 🎬 🎞️ MontageVideo_2spi 🎞️ 🎬
 
 ## Première Pro
 
 Regrouper toutes les vidéos dans le même dossier, et mettre le fichier Première dedans. Les liens des vidéos se créent lorsqu'on les importe, et si on les déplace ensuite il faudra refaire le lien.
 
-### Créer le projet
+### 📂 Créer le projet
 
 Créer un nouveau projet > nom + dossier pour le projet : comme ça on met tous les médias dans le dossier et on a jamais de liens brisés.
 !["screen Premiere"](/images/Premiere_screen2.png)
@@ -19,13 +19,13 @@ Ensuite, on peux placer les médias dans la partie Montage
 
 !["image des reglages"](/images/Premiere_screen10.png)
 
-### Options d'effet
+### 🎛️ Options d'effet
 
 On peux créer des images clefs comme dans After Effect avec la fenêtre Options d'effet, en cliquant sur le chrono à coté d'un paramètre.
 
 !["image des reglages"](/images/Premiere_screen15.png)
 
-### Ajouter une légende
+### 〰️ Ajouter une légende
 
 On prend l'outil Texte
 
@@ -43,12 +43,12 @@ Et on choisit le timing dans le montage :
 
 !["image des reglages"](/images/Premiere_screen14.png)
 
-### Caler une piste son
+### 🔉 Caler une piste son
 
 Si on a une piste son enregistrée au micro, que l'on veux caler sur la vidéo, on place la vidéo et la piste son dans le montage, on les sélectionne, puis on fait Elément > Synchroniser...
 
 
-### Chroma Key
+### 🟩 Chroma Key
 
 On peux se server du chroma key ( = enlever un fond vert, bleur, blanc...) pour rajouter un effet sur une vidéo, ou pour placer une animation qui a été exportée (d'After Effect, Procreate, etc) avec un fond coloré, afin d'obtenir un fond transparent sur Premiere.
 
@@ -64,7 +64,7 @@ On peux alors cliquer sur la pipette dans le paramètre "Couleur de découpe" po
 
 !["image des reglages"](/images/exempleUltrakey.png)
 
-### Sous-titres
+### 🔠 Sous-titres
 
 On ouvre la fonction Transcription en faisant Fenêtre > Texte. On choisit le média (= clip source) à transcrire puis on clique sur Transcrire.
 
@@ -86,7 +86,7 @@ Nos sous-titres se sont placés directement sur la vidéo + dans la timeline :
 
 !["screen Premiere"](/images/Premiere_screen8.png)
 
-### Exporter
+### 📀 Exporter
 
 Une fois que notre montage est fini, on peux passer à l'onglet exporter (tout en haut à droite) :
 
@@ -121,17 +121,17 @@ En bas à droite de l'interface d'export, on a notamment le poid de la vidéo.
 
 !["screen Premiere"](/images/Premiere_screen20.png)
 
-## Voix off
+## 🎤 Voix off
 
 Réserver le studio son : écrire son texte d'abord et s'entraîner plusieurs fois
 
-## Capcut
+## 📱 Capcut
 
 Sur téléphone ou sur Ipad.
 
 Usage moins pro, mais pratique sur le vif.
 
-## Banques de vidéos libres de droit
+## 🗄️ Banques de vidéos libres de droit
 
 [Pixabay](https://pixabay.com/fr/videos/)
 
@@ -141,12 +141,12 @@ Usage moins pro, mais pratique sur le vif.
 
 Ça peut aussi être venir générer des vidéos à l'ateliernum, sur nos modèles d'IA locaux ( = moins de dommages environnementaux + mieux pour la confidentialité des données).
 
-## Guidelines pour les réseaux sociaux
+## 🤳 Guidelines pour les réseaux sociaux
 
 !["image des guidelines"](/images/guidelines_insta.png)
 
 
-## Tips
+## 👁️👄👁️ Tips
 
 - Essayer d'avoir des noms de médias clairs, et surtout les mettre tous dans le même dossier.
 
