@@ -1,6 +1,6 @@
 # 🎬 🎞️ MontageVideo_2spi 🎞️ 🎬
 
-## Première Pro
+## 1️⃣ Première Pro
 
 Regrouper toutes les vidéos dans le même dossier, et mettre le fichier Première dedans. Les liens des vidéos se créent lorsqu'on les importe, et si on les déplace ensuite il faudra refaire le lien.
 
